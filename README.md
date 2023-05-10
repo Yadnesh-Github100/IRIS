@@ -1,5 +1,5 @@
 # IRIS
-IRIS - Inflation Resisting Intervension System
+IRIS - Inflation Resisting Intervension System.
 These days, the cost of goods is rising daily. However, "the farmer," who is entitled to
 profit, frequently experiences a loss. Hence, to address this issue introducing the project
 "IRIS".
