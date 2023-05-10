@@ -20,3 +20,4 @@ The project will not only benefit farmers but also the final customers. Consumer
 acquire goods at minimal cost, and those goods will be more nutrient-rich with the least
 amount of chemical use possible. To minimise effort, each crop cycle will be carefully
 planned and tracked, and data will be gathered in a database.
+
